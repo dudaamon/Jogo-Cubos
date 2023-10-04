@@ -1,6 +1,7 @@
 # 👾 Mini Game - Cubos 
 
 Mini jogo desenvolvido durante a aula introdutória do curso de desenvolvimento de software na Cubos Academy!
+Você pode conferí-lo ao acessar o link na descrição.
 
 ## Descrição do Mini Game:
 Neste jogo, damos instruções ao personagem para se mover pelo mapa através dos comandos passados pelas setas do teclado; para direita, para esquerda, para cima e para baixo. 
