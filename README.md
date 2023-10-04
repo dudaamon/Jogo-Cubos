@@ -20,9 +20,8 @@ Ao chegar ao final do mapa, no canto inferior direito, o objetivo é alcançado,
 Este projeto foi desenvolvido utilizando a plataforma P5JS na web. 
 
 - Primeiro, salvamos imagens dentro do arquivo para usar ao longo do nosso código: o fundo e o personagem do jogo.
-Usamos HTML e CSS para encaixá-las e alinhá-las dentro do mapa.
 
-- Em seguida, desenvolvemos o código em JavaScript, a qual dá instruções para o personagem do jogo para andar de acordo com as setas usadas no teclado, até que ele chegue ao outro lado do mapa e complete o percurso.
+- Em seguida, desenvolvemos o código em JavaScript, a qual salva essas imagens e implementa as instruções para o personagem do jogo andar de acordo com as setas usadas no teclado, até que ele chegue ao outro lado do mapa e complete o percurso.
 
 - Embora seja inicialmente simples, o formato do jogo nos permite elaborá-lo e adaptá-lo à maneira que quisermos.
 
