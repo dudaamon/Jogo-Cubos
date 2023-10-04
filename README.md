@@ -10,7 +10,7 @@ Neste jogo, damos instruções ao personagem para se mover pelo mapa através do
 <img src="https://imgur.com/abnZbc3.png" width="35%">
 </p>
 
-Ao chegar ao final do mapa, no canto inferior esquerdo, o objetivo é alcançado, e então é criado um botão no canto inferior esquerdo para reiniciar o mini game.
+Ao chegar ao final do mapa, no canto inferior direito, o objetivo é alcançado, e então é criado um botão no canto inferior esquerdo para reiniciar o mini game.
 
 <p align="center">
 <img src="https://imgur.com/66OgPnW.png" width="35%">
